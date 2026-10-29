@@ -1,5 +1,7 @@
 # Proof in Motion
 
+![Proof in Motion channel logo](proof-in-motion.png)
+
 Why does the world work the way it does?
 
 Proof in Motion follows the clues behind Earth's strangest landscapes, boldest feats of engineering and most surprising stories from history. Through animated explainers, we connect the evidence to the bigger picture and make complex ideas easy to see.
