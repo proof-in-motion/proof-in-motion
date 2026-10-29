@@ -1,6 +1,6 @@
 # Proof in Motion
 
-![Proof in Motion channel logo](proof-in-motion.png)
+<img src="proof-in-motion.png" width="128" height="128" alt="Proof in Motion channel logo">
 
 Why does the world work the way it does?
 
