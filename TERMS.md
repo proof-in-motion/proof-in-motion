@@ -1,6 +1,6 @@
 # Proof in Motion Studio terms of use
 
-Effective October 29, 2026.
+Effective October 29, 2026. Updated November 2, 2026.
 
 Proof in Motion Studio is a private command-line application for the owners of Proof in Motion and their authorized operators. It is not offered as a public upload service. Use requires the owners' permission and acceptance of the [privacy policy](PRIVACY.md).
 
@@ -8,7 +8,7 @@ The application uses YouTube API Services. **By using Proof in Motion Studio, yo
 
 Only upload content the owners have the rights to use. An owner must review the media and its title, description, audience designation and visibility before authorizing publication. Operators can inspect the exact metadata using `vidgen publish VIDEO_ID --dry-run`; the source metadata and configuration remain editable by the owners. Additional language settings and YouTube features can be managed in [YouTube Studio](https://studio.youtube.com/).
 
-API uploads from an unaudited project can be locked private by YouTube. Proof in Motion Studio cannot remove that restriction or guarantee approval of an audit. For public release while an audit is pending, follow Google's documented process of uploading through YouTube Studio. Do not misrepresent the audit status or switch projects to evade restrictions.
+YouTube controls what happens to an upload, including its visibility. Proof in Motion Studio cannot remove a restriction YouTube applies. Do not misrepresent the application's status with Google or switch projects to evade restrictions.
 
 Operators must keep credentials private, preserve a human approval step, follow the privacy policy's deletion requirements and stay within both the channel's spending budget and Google's API quotas. Disconnect access through `vidgen auth disconnect-youtube` or [Google Account permissions](https://myaccount.google.com/permissions).
 

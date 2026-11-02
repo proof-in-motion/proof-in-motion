@@ -1,6 +1,6 @@
 # Proof in Motion Studio privacy policy
 
-Effective October 29, 2026.
+Effective October 29, 2026. Updated November 2, 2026.
 
 ## Operator and purpose
 
@@ -14,7 +14,7 @@ Google handles OAuth sign-in and consent. Proof in Motion Studio does not reques
 
 The application stores uploaded video identifiers and operational logs, owner-created titles, descriptions, thumbnails and video files, and the owner's aggregate daily channel metrics: views, watch time, average view duration, subscribers gained and estimated revenue. A private SQLite database and generated monthly reports support the owners' production records and expense settlement. Proof in Motion Studio does not retrieve individual viewers' identities, contacts, private messages or browsing history.
 
-Competitor-metric research is disabled in the audit configuration. Enabling that feature requires approval of its use case and derived metrics, and an updated disclosure before use. It is not needed to publish the channel's videos.
+Competitor-metric research is disabled in the current configuration. Enabling that feature requires approval of its use case and derived metrics, and an updated disclosure before use. It is not needed to publish the channel's videos.
 
 ## Use and sharing
 
@@ -30,7 +30,7 @@ Tokens are stored in files restricted to the operating-system account that runs 
 
 Tokens and owner-authorized Analytics API data are retained only while needed for the disclosed purpose and while authorization remains valid. The scheduled analytics sync checks authorization with Google. Operators must keep this check running at least once every 30 days, verify stored uploads have not been deleted, and remove data that is no longer authorized. Temporary service failures are not treated as revocation.
 
-There is no permanent cache of other channels' API metadata in the audit configuration. Original production files and expense amounts are the owners' records and are separate from data retrieved from YouTube.
+There is no permanent cache of other channels' API metadata in the current configuration. Original production files and expense amounts are the owners' records and are separate from data retrieved from YouTube.
 
 ## Revocation and deletion
 
